@@ -1,5 +1,9 @@
 # Documentation
 
+Forked from https://github.com/adamcooke/documentation.
+
+---
+
 Documentation is a Rails engine which provides a complete system for managing a set of hierarchical documentation. Once installed in an application, you'll have a complete user interface for viewing as well as editing a set of markdown pages.
 
 ![Screenshot](http://s.adamcooke.io/14/VGaMe.png)
