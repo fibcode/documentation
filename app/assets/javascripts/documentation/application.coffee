@@ -2,7 +2,7 @@
 #= require jquery_ujs
 #= require documentation/jquery-ui
 #= require documentation/jquery.autosize
-#= require nifty/dialog
+#= require documentation/nifty-dialog
 
 $ ->
   $('form.pageForm textarea').autosize({append: '\n\n'})
