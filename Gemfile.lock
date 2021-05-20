@@ -98,7 +98,7 @@ GEM
     nifty-attachments (1.0.4)
     nifty-dialog (1.1.1)
     nio4r (2.5.7)
-    nokogiri (1.11.3)
+    nokogiri (1.11.5)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     pygments.rb (1.2.1)
