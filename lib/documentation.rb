@@ -18,5 +18,7 @@ require 'documentation/searchers/abstract'
 require 'documentation/search_result'
 require 'documentation/config'
 
+require "dynamic_form_patch"
+
 module Documentation
 end
