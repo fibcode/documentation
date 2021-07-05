@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'haml'
 require 'coffee-rails'
 require 'sass-rails'
@@ -15,6 +17,8 @@ require 'documentation/view_helpers'
 require 'documentation/searchers/abstract'
 require 'documentation/search_result'
 require 'documentation/config'
+
+require "dynamic_form_patch"
 
 module Documentation
 end
