@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{app,config,db,doc,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
-  s.add_dependency "rails", ">= 4.0.0", "< 6.0"
+  s.add_dependency "rails", ">= 4.0.0"
   s.add_dependency "haml", ">= 4.0"
   s.add_dependency "dynamic_form", '~> 1.1'
   s.add_dependency "jquery-rails", ">= 3.0"
